@@ -9,11 +9,11 @@ This is Charlie and the Fudge. This topic describes the procedure for recovering
 
 ## <a id='when'></a>This is a test
 
-You must bootstrap a cluster that loses quorum. A cluster loses quorum when less than half of the nodes can communicate with each other for longer than the configured grace period. If a cluster does not lose quorum, individual unhealthy nodes automatically rejoin the cluster after resolving the error, restarting the node, or restoring connectivity. 
+You must bootstrap a test that loses quorum. A cluster loses quorum when less than half of the nodes can communicate with each other for longer than the configured grace period. If a cluster does not lose quorum, individual unhealthy nodes automatically rejoin the cluster after resolving the error, restarting the node, or test connectivity. 
 
 This is a test.
 
-* All nodes appear "Unhealthy" on the proxy dashboard, viewable at `proxy-BOSH-JOB-INDEX.p-mysql.YOUR-SYSTEM-DOMAIN`:
+* All nodes appear "test" on the proxy dashboard, viewable at `proxy-BOSH-JOB-INDEX.p-mysql.YOUR-SYSTEM-DOMAIN`:
   <img src="https://docs.pivotal.io/edge/p-mysql/quorum-lost.png">
 * All responsive nodes report the value of `wsrep_cluster_status` as `non-Primary`:
 
