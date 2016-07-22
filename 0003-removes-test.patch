@@ -1,0 +1,16 @@
+From 0d3012c10f77cdcaf4ac2c976d7fce9c1dcdb740 Mon Sep 17 00:00:00 2001
+From: Abby Chau <achau@pivotal.io>
+Date: Fri, 22 Jul 2016 14:43:57 -0700
+Subject: [PATCH 3/3] removes test
+
+---
+ test.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 test.html
+
+diff --git a/test.html b/test.html
+deleted file mode 100644
+index e69de29..0000000
+-- 
+2.5.4 (Apple Git-61)
+

@@ -1,0 +1,21 @@
+From 0466d51723b6cc327c04a11f52c3fe0e1a8a5a8c Mon Sep 17 00:00:00 2001
+From: Abby Chau <achau@pivotal.io>
+Date: Fri, 22 Jul 2016 14:40:45 -0700
+Subject: [PATCH 2/3] adds exceptions
+
+---
+ exceptions1.html | 0
+ exceptions2.html | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 exceptions1.html
+ create mode 100644 exceptions2.html
+
+diff --git a/exceptions1.html b/exceptions1.html
+new file mode 100644
+index 0000000..e69de29
+diff --git a/exceptions2.html b/exceptions2.html
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.5.4 (Apple Git-61)
+
